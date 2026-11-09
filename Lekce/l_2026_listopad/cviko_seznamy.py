@@ -41,3 +41,6 @@ def vypocet_obvodu_obdelniku(delka, sirka):
     return 2 * (delka + sirka)
 
 print(f"Obvod obdelniku je: {vypocet_obvodu_obdelniku(5, 3)}")
+
+odmocnina = math.sqrt(16)
+print(f"Odmocnina z 16 je: {odmocnina}")
