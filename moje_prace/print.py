@@ -1,2 +1,4 @@
-#tento řádek vypisuje do konzole text Hello, World!
-print("Hello, World!")
+#proměnna 
+height = 1603
+# tento řádek vypíše výšku Sněžky podle proněnné
+print (f"Sněžka má výšku {height} m n. m.")
