@@ -6,4 +6,3 @@ oblíbený_předmět = input("Napiš svůj oblíbený předmět: ")
 
 #vypíše text Tvůj oblíbený předmět je + doplní obsah proměnné oblíbený_předmět
 print(f"Tvůj oblíbený předmět je {oblíbený_předmět}.")
-
